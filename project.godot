@@ -16,10 +16,21 @@ _global_script_class_icons={
 [application]
 
 config/name="70-Dark-Years"
+run/main_scene="res://First scene.tscn"
 config/use_custom_user_dir=true
+run/low_processor_mode=true
 config/icon="res://icon.png"
 config/macos_native_icon="res://icon.png"
 config/windows_native_icon="res://icon.png"
+
+[display]
+
+window/size/fullscreen=true
+window/vsync/vsync_via_compositor=true
+
+[editor]
+
+convert_text_resources_to_binary_on_export=true
 
 [physics]
 

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TV.obj-2438f7117f78012126a8c6e948000918.mesh"
+
+[deps]
+
+files=[ "res://.import/TV.obj-2438f7117f78012126a8c6e948000918.mesh" ]
+
+source_file="res://Opj/Models/Tv/TV.obj"
+dest_files=[ "res://.import/TV.obj-2438f7117f78012126a8c6e948000918.mesh", "res://.import/TV.obj-2438f7117f78012126a8c6e948000918.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
